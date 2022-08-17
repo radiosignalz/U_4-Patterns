@@ -28,5 +28,11 @@ pubic function query(string $sql):array
     return [];
 
 }
+    class SqlStorage {
+pubic function query(string $sql):array
+{
+    return [];
+
+}
 
 }
